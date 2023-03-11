@@ -12,5 +12,6 @@
 - [ ] Hard
 ## **Notes**
 ***
-* Traverse each linkedlist like brute-force
+* Traverse each linkedlist
+* Compare value of elements and add smaller one
 * Don't forget to check to add rest of linked list elements (see last if/if-else statement)
